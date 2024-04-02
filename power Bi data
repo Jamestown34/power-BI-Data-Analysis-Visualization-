@@ -1,0 +1,24 @@
+**Introduction:**
+I embarked on a journey with a dataset from Kaggle, delving into the intricacies of a company's operations. As I loaded and transformed the data in Power BI, I was able to unearth valuable insights that paint a vivid picture of the company's performance.
+
+
+
+**Segment 1: Sales and Quantity Over Time:**
+In the first part of my visualization, i explored the growth trajectory. The sum of sales and the quantity of goods sold revealed a promising upward trend, showcasing the company's financial health and market presence.
+
+**Segment 2: Delivery Efficiency:**
+With a keen eye for operational efficiency, i introduced the "delivery days" metric. By subtracting the shipping date from the order date, i highlighted the company's commitment to prompt deliveries, a crucial factor in customer satisfaction.
+
+**Segment 3: Returns Analysis:**
+Navigating through the challenges, I tackled the sensitive issue of product returns. My visualization of the percentage of goods returned per year sheds light on areas for improvement in product quality, customer service, or logistics.
+
+**Segment 4: Product Performance:**
+Zooming in on product dynamics, I showcased the stars and underperformers. The top 5 sold products exemplify success stories, while the bottom 5 signal opportunities for refinement or marketing strategies.
+
+**Segment 5: Geographic Impact:**
+Closing the narrative, I provided a geographic lens. The map visualization illustrates the company's reach, highlighting key locations where products are in high demand. This insight can inform targeted marketing efforts and logistical optimizations.
+
+**Conclusion:**
+In conclusion, my journey through this data has unveiled a rich tapestry of the company's operations. From financial prowess to logistical efficiency and product dynamics, the visualizations provide actionable insights to propel the company forward.
+
+This narrative not only conveys the story behind the data but also sets the stage for strategic decision-making based on the identified patterns and trends..
